@@ -1,9 +1,9 @@
 {
-  "version": "2026.11.17.2",
-  "url": "https://github.com/MODUMODUAI/modumodu-connect-release/releases/download/v2026.11.17.2/MODUMODU-CONNECT-update.zip",
+  "version": "2026.11.17.5",
+  "url": "https://github.com/MODUMODUAI/modumodu-connect-release/releases/download/v2026.11.17.5/MODUMODU-CONNECT-update.zip",
   "mirrors": [
     "https://github.com/MODUMODUAI/modumodu-connect-release/releases/latest/download/MODUMODU-CONNECT-update.zip"
   ],
-  "sha256": "2ab585ec8ac2eaea80a2768c51a28e76ec275f252b27c8fa68beb0cd38c7b28e",
+  "sha256": "ad58dc3097e20a94aa1bf0fa4b12e45a8eb52f808a7b5213fc19d4bb8a514ab9",
   "notes": "모두모두 커넥트를 더 좋게 고쳤습니다."
 }
