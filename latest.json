@@ -1,9 +1,9 @@
 {
-  "version": "2026.11.18.4",
-  "url": "https://github.com/MODUMODUAI/modumodu-connect-release/releases/download/v2026.11.18.4/MODUMODU-CONNECT-update.zip",
+  "version": "2026.11.18.5",
+  "url": "https://github.com/MODUMODUAI/modumodu-connect-release/releases/download/v2026.11.18.5/MODUMODU-CONNECT-update.zip",
   "mirrors": [
     "https://github.com/MODUMODUAI/modumodu-connect-release/releases/latest/download/MODUMODU-CONNECT-update.zip"
   ],
-  "sha256": "2e70d4b34deaea25068de77e45f51e48f4b90e4d68061f8a5a5fea392602d569",
-  "notes": "블로그 발행 버튼 가림 문제, 로그인 자동 복구, 주황 C 아이콘"
+  "sha256": "1173ab2409bf4a5ecc7c76e9e3d9d74abbe38d8ba78befc63121eee23f2ead41",
+  "notes": "모두모두 커넥트를 더 좋게 고쳤습니다."
 }
